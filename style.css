@@ -1,0 +1,13 @@
+.first{
+    min-height: 100vh;
+	width: 100%;
+	background-image: url(bg1.jpeg);
+	background-position: centre;
+	background-size: cover;
+	position: relative;
+}
+
+.wish{
+    text-align: center;
+    width: 400px;
+}
